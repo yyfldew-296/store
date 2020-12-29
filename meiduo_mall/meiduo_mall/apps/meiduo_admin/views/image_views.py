@@ -17,3 +17,5 @@ class ImageViewSet(ModelViewSet):
     serializer_class = ImageModelSerializer
 
     pagination_class = MyPage
+
+
